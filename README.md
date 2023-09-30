@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Cursando 6º semestre de Engenharia de Computação pela UFGD
+- 🔭 Cursando 8º semestre de Engenharia de Computação pela UFGD
 - 🌱 Estudando sobre desenvolvimento front-end 
 - 😄 Pronouns: Ele/dele
 
